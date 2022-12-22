@@ -1,0 +1,26 @@
+p {
+	color: forestgreen;
+	width: 76 px;
+}
+h1 {
+	color: revert;
+	text-shadow: 2px 2px 1px white;
+}
+li {
+	color: darkblue;
+	display: block;
+}
+html {
+	
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 20 px;
+	background-color: #E9967A;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 2px solid yellowgreen;
+
+}
+idKira {
+	color: lemonchiffon;
+	width: 100 px;
+}
